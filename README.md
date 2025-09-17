@@ -4,7 +4,7 @@
 
 ---
 
-![Coding GIF](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![Coding GIF](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)  
 
 ---
 
@@ -51,7 +51,7 @@
 ---
 
 ## 🚀 Projects
-![Development GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Development GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
 
 - **Automated Parking System (IoT)** – Smart system for parking management with sensors  
 - **CNC Service Website (MEAN)** – Internal web app for company activities  
