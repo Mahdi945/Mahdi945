@@ -4,12 +4,16 @@
 
 ---
 
-![Coding AI GIF](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<!-- Cette GIF prend maintenant tout le width possible et représente le codage/AI de façon stylée -->
+<!-- GIF principal sous le titre, full width -->
+![GIF Coding AI](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
 ---
 
 ## 🎓 About Me
+<table>
+<tr>
+<td>
+
 💻 Motivated **Junior Software Developer** with a Bachelor in Information Technologies – specialization in **Information Systems Development**  
 💼 Experienced in **Web & Full-Stack development**, database design, and automation  
 🌐 Skilled in Angular, Symfony, MEAN, Node.js/NestJS, Python, MySQL, PostgreSQL, MongoDB  
@@ -17,6 +21,16 @@
 📫 Contact me: [mahdi.beyy@gmail.com](mailto:mahdi.beyy@gmail.com)  
 📄 Portfolio: [Projects Website](https://mahdibey-mahdis-projects-ccd0dc12.vercel.app/)  
 ⚡ Fun fact: I turn **coffee ☕ into code** and complex problems into elegant solutions 🚀  
+
+</td>
+<td>
+
+<!-- GIF à droite de About Me -->
+![GIF Dev Right](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -52,8 +66,8 @@
 ---
 
 ## 🚀 Projects
-![Development AI GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
-<!-- Cette deuxième GIF représente le développement et l’IA, full-width -->
+<!-- GIF de projet / dev pour illustrer cette section -->
+![GIF Projects](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
 
 - **Automated Parking System (IoT)** – Smart system for parking management with sensors  
 - **CNC Service Website (MEAN)** – Internal web app for company activities  
