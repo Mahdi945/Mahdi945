@@ -6,10 +6,11 @@
 <!-- Titre principal centré et net, noir -->
 <h1 align="center" style="color:black; font-size:60px; margin-bottom:20px;">Hi 👋, I'm Mahdi Bey</h1>
 
-<!-- Typing animation sous le GIF, centrée, phrases basées sur ton CV -->
-<p align="center">
+<!-- Typing animation sous le GIF, centrée au milieu -->
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&width=800&lines=Software+Developer;Node.js+Developer;Database+Developer;Angular+Developer;ERP+%26+Web+App+Developer;Full-Stack+Developer" alt="Typing animation">
-</p>
+</div>
+
 
 ---
 
