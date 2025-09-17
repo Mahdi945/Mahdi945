@@ -1,10 +1,11 @@
 # Hi 👋, I'm Mahdi Bey
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=500&lines=Full-Stack+Developer;Angular+Developer;Node.js+Developer;Open+to+New+Opportunities)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=700&lines=Full-Stack+Developer;Angular+Developer;Node.js+Developer;Open+to+New+Opportunities)
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif)  
+![Coding AI GIF](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<!-- Cette GIF prend maintenant tout le width possible et représente le codage/AI de façon stylée -->
 
 ---
 
@@ -51,7 +52,8 @@
 ---
 
 ## 🚀 Projects
-![Development GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Development AI GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+<!-- Cette deuxième GIF représente le développement et l’IA, full-width -->
 
 - **Automated Parking System (IoT)** – Smart system for parking management with sensors  
 - **CNC Service Website (MEAN)** – Internal web app for company activities  
