@@ -1,10 +1,10 @@
-<!-- Titre principal centré et net, noir -->
-<h1 align="center" style="color:black; font-size:60px; margin-bottom:20px;">Hi 👋, I'm Mahdi Bey</h1>
 
 <!-- GIF principal full-width, centré, statique -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding AI GIF" width="100%">
 </p>
+<!-- Titre principal centré et net, noir -->
+<h1 align="center" style="color:black; font-size:60px; margin-bottom:20px;">Hi 👋, I'm Mahdi Bey</h1>
 
 <!-- Typing animation sous le GIF, centrée -->
 <p align="center">
