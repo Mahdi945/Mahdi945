@@ -1,18 +1,15 @@
+<!-- Titre principal centré et net, noir -->
+<h1 align="center" style="color:black; font-size:60px; margin-bottom:20px;">Hi 👋, I'm Mahdi Bey</h1>
 
-<!-- GIF principal fixe, centré juste après le titre -->
+<!-- GIF principal full-width, centré, statique -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding AI GIF" width="600">
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF5733&width=800&lines=Hi+👋,+I'm+Mahdi+Bey" alt="Hi I'm Mahdi Bey">
-</p>
-
-
-<!-- Typing animation sous le GIF -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=700&lines=Full-Stack+Developer;Angular+Developer;Node.js+Developer;Open+to+New+Opportunities" alt="Typing animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding AI GIF" width="100%">
 </p>
 
+<!-- Typing animation sous le GIF, centrée -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&width=800&lines=I'm+Full-Stack+Developer+%7C+Angular+Developer+%7C+Node.js+Developer" alt="Typing animation">
+</p>
 ---
 
 ## 🎓 About Me
