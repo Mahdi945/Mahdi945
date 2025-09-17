@@ -1,11 +1,17 @@
-# Hi 👋, I'm Mahdi Bey
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=FF5733&width=800&lines=Hi+👋,+I'm+Mahdi+Bey" alt="Hi I'm Mahdi Bey">
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF5733&width=700&lines=Full-Stack+Developer;Angular+Developer;Node.js+Developer;Open+to+New+Opportunities)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&width=700&lines=Full-Stack+Developer;Angular+Developer;Node.js+Developer;Open+to+New+Opportunities" alt="Typing animation">
+</p>
 
 ---
 
 <!-- GIF principal sous le titre, full width -->
-![GIF Coding AI](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding AI GIF" width="100%">
+</p>
 
 ---
 
@@ -26,7 +32,7 @@
 <td>
 
 <!-- GIF à droite de About Me -->
-![GIF Dev Right](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="GIF Dev Right" width="100%">
 
 </td>
 </tr>
@@ -66,8 +72,9 @@
 ---
 
 ## 🚀 Projects
-<!-- GIF de projet / dev pour illustrer cette section -->
-![GIF Projects](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif)
+<table>
+<tr>
+<td>
 
 - **Automated Parking System (IoT)** – Smart system for parking management with sensors  
 - **CNC Service Website (MEAN)** – Internal web app for company activities  
@@ -75,6 +82,16 @@
 - **E-Commerce Website (Symfony)** – Online sales platform  
 - **ERP Gas Station Management** – Complete ERP for inventory, sales, staff & reporting  
 - **ERP Transport & Logistics** – Optimize transport and logistics operations  
+
+</td>
+<td>
+
+<!-- GIF à droite des projets -->
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="GIF Projects Right" width="100%">
+
+</td>
+</tr>
+</table>
 
 ---
 
